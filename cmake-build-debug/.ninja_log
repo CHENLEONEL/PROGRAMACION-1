@@ -1,0 +1,7 @@
+# ninja log v5
+0	535	7304489285845512	CMakeFiles/fibonacci.dir/main.cpp.obj	8140b4a9e74d52a5
+537	675	7304489287200331	fibonacci.exe	9b2890cc8c543aa7
+3	430	7304490864341867	CMakeFiles/fibonacci.dir/main.cpp.obj	8140b4a9e74d52a5
+431	564	7304490865616895	fibonacci.exe	9b2890cc8c543aa7
+3	441	7304491168650526	CMakeFiles/fibonacci.dir/main.cpp.obj	8140b4a9e74d52a5
+442	573	7304491169934333	fibonacci.exe	9b2890cc8c543aa7
